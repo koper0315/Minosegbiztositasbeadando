@@ -1,0 +1,14 @@
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.exe.config
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.exe
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.pdb
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.exe
+C:\Users\Peti\source\repos\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.pdb
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.exe.config
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.exe
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\bin\Debug\Minbiztositas01.pdb
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.csprojAssemblyReference.cache
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.exe
+C:\Users\Peti\Desktop\Minbiztositas01\Minbiztositas01\obj\Debug\Minbiztositas01.pdb
